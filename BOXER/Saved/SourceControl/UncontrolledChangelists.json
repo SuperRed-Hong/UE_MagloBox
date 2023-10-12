@@ -5,7 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"I:/unreal/Unreal Project/BOXER/BOXER/Content/StarterContent/Props/MaterialSphere.uasset"
+				"I:/unreal/Unreal Project/BOXER/BOXER/Content/StarterContent/Props/MaterialSphere.uasset",
+				"I:/unreal/Unreal Project/BOXER/BOXER/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/3G/5OUZ3QE393JDHBZ4JJYFN8.uasset",
+				"I:/unreal/Unreal Project/BOXER/BOXER/Content/Reed_3DDefence_Test/BP_ThirdPersonCharacter.uasset"
 			]
 		}
 	]
