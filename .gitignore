@@ -72,5 +72,3 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-BOXER/Saved/Logs/BOXER.log
-BOXER/Saved/Logs/BOXER_2.log
