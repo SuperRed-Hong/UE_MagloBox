@@ -75,3 +75,4 @@ DerivedDataCache/*
 BOXER/Saved/Logs/BOXER.log
 BOXER/Saved/Logs/BOXER_2.log
 BOXER/Saved/Logs/BOXER-backup-2023.10.12-17.13.19.log
+*.log
