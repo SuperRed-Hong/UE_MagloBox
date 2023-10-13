@@ -5,17 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< HEAD
-				"I:/unreal/Unreal Project/BOXER/BOXER/Content/StarterContent/Props/MaterialSphere.uasset",
-				"I:/unreal/Unreal Project/BOXER/BOXER/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/3G/5OUZ3QE393JDHBZ4JJYFN8.uasset",
-				"I:/unreal/Unreal Project/BOXER/BOXER/Content/Reed_3DDefence_Test/BP_ThirdPersonCharacter.uasset"
-=======
-				"E:/Cooperated_UE_Projcets/MagloBox/BOXER/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
-				"E:/Cooperated_UE_Projcets/MagloBox/BOXER/Content/Reed_3DDefence_Test/IMC_Default.uasset",
 				"E:/Cooperated_UE_Projcets/MagloBox/BOXER/Content/Reed_3DDefence_Test/IMC_Reed_Test.uasset",
 				"E:/Cooperated_UE_Projcets/MagloBox/BOXER/Content/Reed_3DDefence_Test/BP_ThirdPersonCharacter.uasset",
-				"I:/unreal/Unreal Project/BOXER/BOXER/Content/StarterContent/Props/MaterialSphere.uasset"
->>>>>>> b9f0f6d1db14bdc67530b55a085b5da777f21d7a
+				"E:/Cooperated_UE_Projcets/MagloBox/BOXER/Content/Reed_3DDefence_Test/BP_Dummy.uasset",
+				"E:/Cooperated_UE_Projcets/MagloBox/BOXER/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/CJ/IRT6EYMF9A6ARDVT9TT05N.uasset",
+				"E:/Cooperated_UE_Projcets/MagloBox/BOXER/Content/ThirdPerson/Input/Actions/IA_TargetLock.uasset",
+				"E:/Cooperated_UE_Projcets/MagloBox/BOXER/Content/ThirdPerson/Input/IMC_Default.uasset"
 			]
 		}
 	]
